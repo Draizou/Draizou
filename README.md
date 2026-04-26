@@ -9,11 +9,11 @@
 
 </div>
 
-## 🏆 Trophées
+---
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Draizou&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
+![Trophies](https://i.imgur.com/CPj7ZFO.png)
 
 </div>
 
